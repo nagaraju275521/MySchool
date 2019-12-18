@@ -4,7 +4,9 @@ public class Findstudent {
 
 	public static void main(String[] args) {
 
-		System.out.println("My student naagu");
+		int y = 20;
+		int z = 30;
+		System.out.println("My student naagu"+ (y+z));
 	}
 
 }
