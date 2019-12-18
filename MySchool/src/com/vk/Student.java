@@ -24,11 +24,8 @@ public class Student {
 	public void setAddres(String address) {
 		this.address = address;
 	}
-	public Student(String name, int age, String address) {
-		this.name = name;
-		this.age = age;
-		this.address = address;
-	}
+	
+	
 	
 	
 	
