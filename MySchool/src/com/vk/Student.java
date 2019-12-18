@@ -23,6 +23,15 @@ public class Student {
 	}
 	public void setAddres(String address) {
 		this.address = address;
+<<<<<<< HEAD
+=======
+	}
+	
+	public Student(String name, int age, String address){
+		this.name = name;
+		this.age = age;
+		this.address = address;
+>>>>>>> branch 'master' of https://github.com/nagaraju275521/MySchool.git
 	}
 	
 	
